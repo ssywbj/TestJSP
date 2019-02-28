@@ -20,7 +20,13 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	-->
   </head>
   
-  <body>
-    This is my JSP page，程序. <br>
+  <body bgcolor="#08E08C">
+    <br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+    This is my JSP page，爱编程，不爱bug！<br>
   </body>
 </html>
